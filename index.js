@@ -24,5 +24,5 @@ function greet(){
 /* Write your implementation of displayMessage() */
 
 function displayMessage() {
-  if timeString 
+
 }
